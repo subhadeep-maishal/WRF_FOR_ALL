@@ -1,7 +1,7 @@
 # WRF_FOR_ALL
 # Subhadeep Maishal
 #M.tech Remote Sensing
-Birla Institute of Technology, Mesra,Ranchi, Jharkhand,India
+#Birla Institute of Technology, Mesra,Ranchi, Jharkhand,India
 # Compile and Install WRF and WPS Linux env.
 
 Before now, we can run on Ubuntu successfully.
