@@ -17,6 +17,11 @@ And just enjoy it!
 ## Has a question?
 
 Record a issue to me.
+Email:subharsgis08@gmail.com
+https://modelingguru.nasa.gov/people/subharsgis08%40gmail.com
+https://devmesh.intel.com/users/subhadeep-maishal
+https://www.linkedin.com/in/subhadeep-maishal-6020a7b3/
+https://www.facebook.com/subhaiitkgp
 
 Thanks Dr. ZHU for providing guidance document.
-https://static.wixstatic.com/media/04709a_bf41b1e3400a4b728a9a110fb049e08a~mv2.png/v1/fill/w_270,h_175,al_c,usm_0.66_1.00_0.01/04709a_bf41b1e3400a4b728a9a110fb049e08a~mv2.png
+
