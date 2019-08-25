@@ -11,6 +11,8 @@ Before now, we can run on Ubuntu successfully.
 
 ```
 sh install_WRF_ubuntu_gcc.sh
+or
+sh install_WRF_ubuntu_intel.sh
 ```
 And just enjoy it!
 
