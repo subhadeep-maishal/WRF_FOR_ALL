@@ -5,9 +5,9 @@ export PATH
 echo "+------------------------------------------------------------------------+"
 echo "|                     congratulations WRF is Installing                      |"
 echo "+------------------------------------------------------------------------+"
-echo "|            Go for coffee because Its take some time...enjoy boss              |"
+echo "|            Go for coffee because Its take some time...enjoy Boss              |"
 echo "+------------------------------------------------------------------------+"
-echo "|            Author: Subhadeep Maishal  Email: subharsgis08@gmail.com               |"
+echo "|            Author: Subhadeep Maishal  Email: mtrs10006.17@bitmesra.ac.in               |"
 echo "+------------------------------------------------------------------------+"
 
 # Check if user is root
@@ -285,7 +285,7 @@ fi
 cd $Build_WRF
 mkdir -p $Build_WRF/WPS_GEOG
 if [ ! -f "geog_minimum.tar.bz2" ]; then
-        wget http:www2.mmm.ucar.edu/wrf/src/wps_files/geog_complete.tar.gz
+	wget http://www2.mmm.ucar.edu/wrf/src/wps_files/geog_complete.tar.gz
         mv geog_complete.tar.gz WPS_GEOG
         cd WPS_GEOG
         tar zxvf  geog_complete.tar.gz
@@ -293,4 +293,4 @@ if [ ! -f "geog_minimum.tar.bz2" ]; then
 fi
 cd $Build_WRF/WPS
 cp namelist.wps namelist.wps.bak
-sed -i "s#/glade/p/work/wrfhelp#$Build_WRF#g" namelist.wps
+sed -i "s#/home/wrf/arch#$Build_WRF#g" namelist.wps
