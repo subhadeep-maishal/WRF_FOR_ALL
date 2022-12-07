@@ -1,6 +1,6 @@
 # WRF_FOR_ALL
 # Subhadeep Maishal
-#M.tech Remote Sensing
+#M.Tech Remote Sensing
 
 #Birla Institute of Technology, Mesra,Ranchi, Jharkhand,India
 # Compile and Install WRF and WPS Linux env.
