@@ -285,11 +285,11 @@ fi
 cd $Build_WRF
 mkdir -p $Build_WRF/WPS_GEOG
 if [ ! -f "geog_minimum.tar.bz2" ]; then
-	wget http://www2.mmm.ucar.edu/wrf/src/wps_files/geog_complete.tar.gz
-        mv geog_complete.tar.gz WPS_GEOG
+	wget https://www2.mmm.ucar.edu/wrf/src/wps_files/geog_high_res_mandatory.tar.gz
+        mv geog_high_res_mandatory.tar.gz WPS_GEOG
         cd WPS_GEOG
-        tar zxvf  geog_complete.tar.gz
-        mv geog_complete.tar.gz ..
+        tar zxvf  geog_high_res_mandatory.tar.gz
+        mv geog_high_res_mandatory.tar.gz ..
 fi
 cd $Build_WRF/WPS
 cp namelist.wps namelist.wps.bak
