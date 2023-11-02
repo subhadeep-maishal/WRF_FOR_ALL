@@ -24,7 +24,7 @@ Email:mtrs10006.17@bitmesra.ac.in
 
 GitHub Link : https://github.com/subhadeep-maishal
 
-LinkedIn adress:  subhadeep-maishal-6020a7b
+LinkedIn adress:  https://www.linkedin.com/in/subhadeep-maishal-6020a7b3/?originalSubdomain=in
 
 https://modelingguru.nasa.gov/people/subharsgis08%40gmail.com
 
