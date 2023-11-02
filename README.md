@@ -30,5 +30,4 @@ https://modelingguru.nasa.gov/people/subharsgis08%40gmail.com
 
 https://devmesh.intel.com/users/subhadeep-maishal
 
-Thankfull to Dr. ZHU for providing guidance document.
 
